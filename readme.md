@@ -10,6 +10,7 @@
     sudo npm run start-prod // and then run syntax for run the service web 
 
 you can copy the syntax
+
     sudo apt update
     sudo curl -fsSL https://deb.nodesource.com/setup_19.x | bash - && apt-get install -y nodejs
     sudo apt-get install git -y
