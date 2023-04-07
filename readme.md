@@ -1,4 +1,4 @@
-# setup-vm-nstance_GCP_with_automation_deplot_webApp
+# setup-vm-instance_GCP_with_automation_deplot_webApp
 
     node -v  //to see the version, if node if node not found then it must be install node js (the node js installed is version 19.xx) 
     sudo apt update     // the syntax for update system vm-intance
